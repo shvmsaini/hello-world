@@ -1,0 +1,54 @@
+.description { 
+color:darkolivegreen;
+background-color: beige;
+border: 0.25rem dashed black;
+font-family:sans-serif;
+font-size: 80px; 
+padding-right:7px;
+    padding-bottom:4px;
+text-shadow: 5px 1px 0px #000000;
+}
+
+#map{
+    align-self: auto;
+    width: 1000px;
+  
+    
+}
+
+.hack
+{
+    background-color:aqua;
+}
+
+.dev{
+   color::"red";
+}
+
+.detail
+{
+    font-family:sans-serif;
+    font-size:19px;
+}
+
+#link
+{
+    font-size: 19px;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: lightblue;
+
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
